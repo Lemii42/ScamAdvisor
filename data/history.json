@@ -1,0 +1,44 @@
+[
+  {
+    "url": "http://netflix-billing-info.com",
+    "risk_level": "\ud83d\udd36 LOW-MEDIUM RISK - Some concerning factors",
+    "score": 39,
+    "timestamp": "2025-11-16T22:22:23.205307"
+  },
+  {
+    "url": "http://185.162.132.42",
+    "risk_level": "\u26a0\ufe0f MEDIUM RISK - Multiple suspicious indicators",
+    "score": 47,
+    "timestamp": "2025-11-16T22:21:56.709777"
+  },
+  {
+    "url": "https://192.168.1.100.example.com",
+    "risk_level": "\u26a0\ufe0f MEDIUM RISK - Multiple suspicious indicators",
+    "score": 40,
+    "timestamp": "2025-11-16T22:17:12.263047"
+  },
+  {
+    "url": "https://amazon-account-security.com",
+    "risk_level": "\ud83d\udd36 LOW-MEDIUM RISK - Some concerning factors",
+    "score": 33,
+    "timestamp": "2025-11-16T22:16:27.735472"
+  },
+  {
+    "url": "https://microsoft-account-verify.xyz",
+    "risk_level": "\u26a0\ufe0f MEDIUM RISK - Multiple suspicious indicators",
+    "score": 41,
+    "timestamp": "2025-11-16T22:15:00.552453"
+  },
+  {
+    "url": "https://apple-id-confirm-secure.top",
+    "risk_level": "\u26a0\ufe0f MEDIUM RISK - Multiple suspicious indicators",
+    "score": 46,
+    "timestamp": "2025-11-16T22:14:31.238516"
+  },
+  {
+    "url": "https://example-login-secure-banking-verify.tk",
+    "risk_level": "\u26a0\ufe0f MEDIUM RISK - Multiple suspicious indicators",
+    "score": 51,
+    "timestamp": "2025-11-16T22:09:11.370415"
+  }
+]
