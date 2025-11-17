@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 # 🔍 Scam Advisor - Website Trust Analyzer
 
 A professional security tool for analyzing website trustworthiness and detecting potential scams, phishing sites, and malicious domains.
@@ -40,3 +41,14 @@ A professional security tool for analyzing website trustworthiness and detecting
    ```bash
    git clone https://github.com/yourusername/scam-advisor.git
    cd scam-advisor
+   
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [VirusTotal](https://www.virustotal.com/) for malware detection API
+- [AlienVault OTX](https://otx.alienvault.com/) for threat intelligence
+- [PyQt5](https://www.riverbankcomputing.com/software/pyqt/) for the GUI framework
+- The open-source security community
